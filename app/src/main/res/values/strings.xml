@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiline</string>
+    <string name="Napis">Mój napis</string>
+    <string name="InnyNapis">Ten tekst \n wyświetlam</string>
+</resources>
