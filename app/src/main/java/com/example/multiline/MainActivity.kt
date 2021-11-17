@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         findViewById<Button>(R.id.Zmien).setOnClickListener {
             findViewById<EditText>(R.id.multiText).setText("Marcin \n Kołacz")
+            //findViewById<EditText>(R.id.multiText).setText( R.string.Napis)
         }
     }
 
